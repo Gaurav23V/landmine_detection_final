@@ -1,0 +1,5 @@
+data/
+results/yolov11/predict
+results/yolov11/train/weights
+results/yolov8/predict
+results/yolov8/train/weights
