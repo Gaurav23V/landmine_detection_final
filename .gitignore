@@ -6,4 +6,4 @@ results/yolov8/train/weights
 results/yolov11/test
 runs/
 results/yolov8/test
-yolov5/
+results/yolov8/yolov

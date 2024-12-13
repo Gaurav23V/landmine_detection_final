@@ -218,7 +218,7 @@ if __name__ == "__main__":
     OUTPUT_DIR = "results/yolov5/test/predict"
 
     # Run predictions
-    predict_and_save_labels(MODEL_PATH, TEST_IMAGES, OUTPUT_DIR)
+    # predict_and_save_labels(MODEL_PATH, TEST_IMAGES, OUTPUT_DIR)
 
     # Evaluate metrics
-    # evaluate_metrics("data/test/labels", os.path.join(OUTPUT_DIR, "labels"))
+    evaluate_metrics("data/test/labels", os.path.join(OUTPUT_DIR, "labels"))
