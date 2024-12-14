@@ -9,3 +9,4 @@ results/yolov8/test
 results/yolov8/yolov
 results/ensemble_result
 results/yolov5/test/labels
+results/augmented_result
